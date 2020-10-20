@@ -1,13 +1,13 @@
-# Active Records Model of Micro-Reddit
+# Project : Bare Metal Forms and Helpers
 
 This project is a description of the multiple ways to build a form in rails that can send parameters to a controller so that it can create an instance of a model with those parameters.
 
 ## Build-With
 
- -Ruby
- -Rails
- -SQLite3
- -VScode
+- Ruby
+- Rails
+- SQLite3
+- VScode
 
 ## Getting Started
 
